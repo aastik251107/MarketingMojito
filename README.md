@@ -2,6 +2,8 @@
 
 A modern, high-fidelity expense tracking application built with React and Vite, featuring a premium design aesthetic inspired by Marketing Mojito.
 
+**[Live Demo](https://marketing-mojito-kncy.vercel.app/)**
+
 ## Features
 
 - Marketing Mojito Aesthetic: Clean, airy UI with Poppins typography, rounded components, and custom green branding.
