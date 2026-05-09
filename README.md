@@ -49,7 +49,7 @@ expense-tracker/
 
 ### Prerequisites
 - Node.js (v18 or higher recommended)
-- npm or yarn
+- npm 
 
 ### Installation
 
